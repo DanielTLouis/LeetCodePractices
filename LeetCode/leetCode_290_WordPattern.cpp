@@ -2,7 +2,7 @@
 290. Word Pattern
 Easy
 6.9K
-899
+901
 Companies
 Given a pattern and a string s, find if s follows the same pattern.
 
